@@ -2,7 +2,7 @@ package main;
 import animals.Pig;
 import animals.Cow;
 import animals.Sheep;
-import animals.Cat;
+
 
 /*
  * categorize the animals by their noise.  
@@ -29,9 +29,6 @@ public class FarmerAlBarnyardInventoryApplication {
 		 sheep.animalSound();
 		 sheep.sleep();
 
-		Cat cat = new Cat();
-		cat.animalSound();
-		cat.sleep();
 		
 	}
 
